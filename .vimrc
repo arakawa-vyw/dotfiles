@@ -1,4 +1,5 @@
 :colorscheme elflord
+syntax on
 
 " バッファを保存しなくても他のバッファを表示できるようにする
 set hidden
