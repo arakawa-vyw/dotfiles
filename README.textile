@@ -1,5 +1,25 @@
 h1. dotfiles
 
-h2. files
+h2. bash
+
+* linux/.bashrc
+* mac/.bashrc
+
+h2. tmux
+
+* linux/.tmux.conf
+* mac/.tmux.conf
+
+h2. vim
 
 * .vimrc
+
+h2. git
+
+* git-prompt.sh
+* git-completion.bash
+
+h2. ruby
+* .gemrc
+* .pryrc
+
