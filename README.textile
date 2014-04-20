@@ -16,8 +16,8 @@ h2. vim
 
 h2. git
 
-* git-prompt.sh
-* git-completion.bash
+* linux/git-prompt.sh
+* linux/git-completion.bash
 
 h2. ruby
 * .gemrc
