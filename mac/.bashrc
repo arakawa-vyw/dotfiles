@@ -4,6 +4,7 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 alias ll='ls -laG'
 alias vi='/usr/local/bin/vim'
+alias gitka='gitk --all &'
 
 # auto ll after cd
 function cdls() {
