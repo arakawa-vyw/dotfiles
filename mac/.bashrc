@@ -40,6 +40,6 @@ if [ -f /usr/local/etc/bash_completion.d/git-completion.bash ]; then
     # \] 表示させない文字列の終了
     # \$ $
     # export PS1='\[\033[32m\]\u@\h\[\033[00m\]:\[\033[34m\]\w\[\033[31m\]$(__git_ps1)\[\033[00m\]\$ '
-    export PS1='\[\033[00m\]\u@\h\:\w\[\033[31m\]$(__git_ps1)\[\033[00m\]\$ '
+    export PS1='\[\033[00m\]\u@\h:\w\[\033[31m\]$(__git_ps1)\[\033[00m\]\$ '
 fi
 
