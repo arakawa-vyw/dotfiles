@@ -1,0 +1,6 @@
+# user.name, user.emailなどユーザ（端末）固有情報が入るため
+# シンボリックリンクでの利用非推奨。
+
+[alias]
+	st = status
+	co = checkout
