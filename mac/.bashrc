@@ -1,5 +1,9 @@
 export PATH=/usr/local/bin:$PATH
 
+# "ls -G"時のディレクトリの前景色をblueからcyanに変更して見やすくする
+# man ls
+export LSCOLORS=gxfxcxdxbxegedabagacad
+
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 alias ll='ls -laG'
