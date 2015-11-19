@@ -29,6 +29,12 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 ## Finder
 
+- ファイル/フォルダを開く
+
+	winと異なりreturnはリネーム...
+
+		command + o
+
 - ファイルの移動
 
 		command + c
