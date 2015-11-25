@@ -13,7 +13,7 @@ alias gitka='gitk --all &'
 # auto ll after cd
 function cdls() {
   # cdがaliasでループするので\をつける
-  \cd $1;
+  \cd "$1";
   ll;
 }
 alias cd=cdls
