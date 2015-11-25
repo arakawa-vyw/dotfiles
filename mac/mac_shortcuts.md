@@ -62,6 +62,9 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 ## Excel for Mac(ver 15.14)
 
+[Excel 2016 for Mac のキーボード ショートカット](https://support.office.com/ja-jp/article/Excel-2016-for-Mac-のキーボード-ショートカット-acf5419e-1f87-444d-962f-4e951a658ccd)
+
+
 - コンテキストメニュー
 
 		shift + F10
