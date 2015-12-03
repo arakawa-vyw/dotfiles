@@ -3,6 +3,16 @@
 About **OS X Yosemite on Macbook Air**.  
 Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
+## Decoration Keys
+
+|Decoration|Key|
+|---|---|
+|⌘|command|
+|⇧|shift|
+|⌥|option|
+|⌃|control|
+|⇪|caps lock|
+
 ## Mac
 
 - スクリーンロック
