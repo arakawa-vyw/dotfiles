@@ -8,7 +8,12 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 alias ll='ls -laG'
 alias vi='/usr/local/bin/vim'
-alias gitka='gitk --all &'
+
+# 'gitk --all' occurs error...
+# http://www.yorozu-sys.net/monooki/20151014002631
+alias gitk='LANG=C gitk'
+#alias gitka='gitk --all &'
+alias gitka='LANG=C gitk --all &'
 
 # auto ll after cd
 function cdls() {
