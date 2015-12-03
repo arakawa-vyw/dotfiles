@@ -69,6 +69,15 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 		shift + command + ←(→)
 
+## Sublime Text 2
+
+- Find
+
+		command + f
+
+- Replace
+
+		option + command + f
 
 ## Excel for Mac(ver 15.14)
 
