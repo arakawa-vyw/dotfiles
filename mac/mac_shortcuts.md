@@ -25,6 +25,20 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 		option + ¥
 
+- キャプチャ
+	- 画面全体
+
+			#デスクトップに画像保存
+			Command + shift + 3
+			#クリップボードに保存
+			Control + Command + shift + 3
+
+	- 選択 -> デスクトップに画像保存
+
+			#デスクトップに画像保存
+			Command + shift + 4
+			#クリップボードに保存
+			Control + Command + shift + 4
 
 ## Window
 
