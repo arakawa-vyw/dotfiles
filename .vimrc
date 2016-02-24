@@ -70,7 +70,8 @@ NeoBundle 'tomtom/tcomment_vim'
 "neocomplete. It is faster than neocomplcache.
 "NeoBundle 'Shougo/neocomplete.vim'
 NeoBundle 'Shougo/neocomplcache.vim'
-NeoBundle 'Shougo/neosnippet.vim'
+NeoBundle 'Shougo/neosnippet'
+NeoBundle 'Shougo/neosnippet-snippets'
 NeoBundle 'tpope/vim-endwise'
 NeoBundle 'rking/ag.vim'
 
