@@ -77,6 +77,10 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 		shift + command + ←(→)
 
+- カレントディレクトリをFinderで開く
+
+		open .
+
 ## Safari
 
 - タブの切り替え
@@ -92,6 +96,10 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 - Replace
 
 		option + command + f
+
+- 矩形選択
+
+		option + ドラッグ
 
 ## Excel for Mac(ver 15.14)
 
