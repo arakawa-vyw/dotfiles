@@ -1,0 +1,12 @@
+# Run the following command.
+# git config --global core.excludesfile ~/.gitignore_global
+
+# Mac Finder setting
+.DS_Store
+
+# Vim swap file
+*.swp
+
+# RubyMine project setting
+.idea/
+
