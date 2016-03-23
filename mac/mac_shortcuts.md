@@ -29,16 +29,20 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 	- 画面全体
 
 			#デスクトップに画像保存
-			Command + shift + 3
+			command + shift + 3
 			#クリップボードに保存
-			Control + Command + shift + 3
+			control + command + shift + 3
+
+	- ウィンドウ
+
+			command + shift + 4 + space + option
 
 	- 選択 -> デスクトップに画像保存
 
 			#デスクトップに画像保存
-			Command + shift + 4
+			command + shift + 4
 			#クリップボードに保存
-			Control + Command + shift + 4
+			control + command + shift + 4
 
 ## Window
 
