@@ -142,3 +142,9 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 	コピー先ファイル（シート）
 
 		ESC押下後、右クリック -> "形式を選択して貼り付け"
+
+## MySQL Workbench(6.3)
+
+- Execute SQL(All or Selected)
+
+		shift + command + enter
