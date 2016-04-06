@@ -2,5 +2,11 @@
 # シンボリックリンクでの利用非推奨。
 
 [alias]
-	st = status
-	co = checkout
+        st = status
+        co = checkout
+        br = branch
+        graph = log --graph --oneline --decorate=full
+[core]
+        editor = /usr/local/bin/vim
+        excludesfile = ~/.gitignore_global
+
