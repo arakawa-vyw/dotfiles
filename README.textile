@@ -16,6 +16,8 @@ h2. vim
 
 h2. git
 
+* .gitconfig
+* mac/.gitignore_global
 * linux/git-prompt.sh
 * linux/git-completion.bash
 
