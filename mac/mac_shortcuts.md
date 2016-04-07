@@ -73,6 +73,10 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 ## Terminal
 
+- パスの選択（/込みで選択したい）
+
+		command + shift + ダブルクリック
+
 - history検索
 
 		control + r
