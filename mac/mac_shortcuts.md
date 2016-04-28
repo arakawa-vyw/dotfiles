@@ -95,6 +95,12 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 		shift + command + ←(→)
 
+## Chrome
+
+- タブの切り替え
+
+		option + command + ←(→)
+
 ## Sublime Text 2
 
 - Find
