@@ -69,7 +69,10 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 		でコピーした後
 		option + command + v
 		でペーストでなく移動になる
-		
+
+- パスを指定して開く
+
+		shift + command + g
 
 ## Terminal
 
