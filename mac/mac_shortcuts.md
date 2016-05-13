@@ -101,7 +101,7 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 		option + command + ←(→)
 
-## Sublime Text 2
+## Sublime Text 3
 
 - Find
 
