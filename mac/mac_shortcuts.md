@@ -150,6 +150,14 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 		もしくは
 		F2
 
+- セルもしくは行の挿入
+
+		control + shift + =
+
+- １画面下（上）へ移動
+
+		fn + ↓（↑）
+
 - シート切り替え
 
 		option + ←（→）
