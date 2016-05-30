@@ -1,6 +1,6 @@
 # Mac shortcuts
 
-About **OS X Yosemite on Macbook Air**.  
+About **OS X(EI Capitan) on Macbook Air**.  
 Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 ## Decoration Keys
