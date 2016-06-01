@@ -44,6 +44,12 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 			#クリップボードに保存
 			control + command + shift + 4
 
+- スリープ抑止
+
+	[Mac OS X 10.8以降で一時的にスリープを抑制するコマンド](http://henry.animeo.jp/blog/2013/12/07/caffeinate/)
+
+		$caffeinate -d
+
 ## Window
 
 - 最大化(≠フルスクリーン)
