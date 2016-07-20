@@ -178,6 +178,32 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 		ESC押下後、右クリック -> "形式を選択して貼り付け"
 
+## MySQL
+
+[MySQLコマンドラインツールで使えるコマンド小ネタ](http://b.l0g.jp/mysql/mysql-commands-on-cli/)
+
+- 結果をless形式で表示
+
+		pager less
+
+	- 横スクロールオプション
+
+			pager less -S
+
+	- 元に戻す
+
+			nopager
+
+- 標準出力＆ファイル出力
+
+		tee output.txt
+		# 停止
+		notee
+
+- OSコマンド実行
+
+		system ls | grep 'sample.txt'
+
 ## MySQL Workbench(6.3)
 
 - Execute SQL(All or Selected)
