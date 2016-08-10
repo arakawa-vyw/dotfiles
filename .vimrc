@@ -74,6 +74,7 @@ NeoBundle 'Shougo/neosnippet'
 NeoBundle 'Shougo/neosnippet-snippets'
 NeoBundle 'tpope/vim-endwise'
 NeoBundle 'rking/ag.vim'
+NeoBundle 'othree/html5.vim'
 
 call neobundle#end()
 
