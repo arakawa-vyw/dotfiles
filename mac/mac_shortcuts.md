@@ -158,7 +158,13 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 - セルもしくは行の挿入
 
-		control + shift + =
+		control + shift + '='
+
+- セルもしくは行の削除
+
+		control + '-'
+		もしくは
+		command + '-'
 
 - １画面下（上）へ移動
 
