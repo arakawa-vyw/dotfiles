@@ -1,0 +1,23 @@
+{
+	"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"itg_small_tabs": true,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		50,
+		100
+	],
+	"show_full_path": true,
+	"theme": "itg.flat.dark.sublime-theme",
+
+    // Display file encoding in the status bar
+    "show_encoding": true,
+
+    // Display line endings in the status bar
+    "show_line_endings": true
+}
