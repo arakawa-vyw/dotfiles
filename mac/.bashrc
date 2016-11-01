@@ -4,6 +4,10 @@ export PATH=/usr/local/bin:$PATH
 # man ls
 export LSCOLORS=gxfxcxdxbxegedabagacad
 
+# crontab -eでの以下のエラー回避
+# 'crontab: "/usr/bin/vi" exited with status 1'
+export EDITOR=vim
+
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 alias ll='ls -laG'

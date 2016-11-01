@@ -36,6 +36,10 @@ set expandtab
 
 set nocompatible               " Be iMproved
 
+" for avoid following error
+" 'crontab: temp file must be edited in place'
+set backupskip=/tmp/*,/private/tmp/*
+
 " キーマッピング
 noremap :nt :NERDTree<CR>
 noremap :nf :NERDTreeFind<CR>
