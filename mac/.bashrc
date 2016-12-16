@@ -18,6 +18,7 @@ alias vi='/usr/local/bin/vim'
 alias gitk='LANG=C gitk'
 #alias gitka='gitk --all &'
 alias gitka='LANG=C gitk --all &'
+alias gitbrl='for k in `git branch --merged | sed s/^..//`; do echo -e `git log -1 --pretty=format:"%Cgreen%ci %Cblue%cr%Creset" $k --`\\t"$k";done | sort'
 
 # auto ll after cd
 function cdls() {
