@@ -12,12 +12,9 @@
 		50,
 		100
 	],
+	"show_encoding": true,
 	"show_full_path": true,
+	"show_line_endings": true,
 	"theme": "itg.flat.dark.sublime-theme",
-
-    // Display file encoding in the status bar
-    "show_encoding": true,
-
-    // Display line endings in the status bar
-    "show_line_endings": true
+	"tab_completion": false
 }
