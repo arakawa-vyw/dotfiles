@@ -25,6 +25,11 @@ Edited and Viewed by [MacDown](http://macdown.uranusjr.com)
 
 		option + ¥
 
+- カーソル移動
+
+		# 単語単位でカーソル移動
+		option + →(←)
+
 - キャプチャ
 	- 画面全体
 
