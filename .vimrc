@@ -40,6 +40,9 @@ set nocompatible               " Be iMproved
 " 'crontab: temp file must be edited in place'
 set backupskip=/tmp/*,/private/tmp/*
 
+" backspaceで行頭の空白,改行,挿入モード開始位置より前の文字を削除可とする
+set backspace=indent,eol,start
+
 " キーマッピング
 noremap :nt :NERDTree<CR>
 noremap :nf :NERDTreeFind<CR>
