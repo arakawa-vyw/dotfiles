@@ -9,6 +9,7 @@ export LSCOLORS=gxfxcxdxbxegedabagacad
 export EDITOR=vim
 
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
+if which plenv > /dev/null; then eval "$(plenv init -)"; fi
 
 alias ll='ls -laG'
 alias vi='/usr/local/bin/vim'
