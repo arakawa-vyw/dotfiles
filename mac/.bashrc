@@ -43,6 +43,8 @@ if [ -f /usr/local/etc/bash_completion.d/git-completion.bash ]; then
     # GIT_PS1_SHOWUNTRACKEDFILES
     # GIT_PS1_SHOWSTASHSTATE
     GIT_PS1_SHOWDIRTYSTATE=true
+    GIT_PS1_SHOWUPSTREAM=true
+    GIT_PS1_SHOWUNTRACKEDFILES=true
 
     ############### ターミナルのコマンド受付状態の表示変更
     # \u ユーザ名
